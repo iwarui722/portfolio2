@@ -13,7 +13,7 @@ The software to install to run the code:
 
 ## Installing
 - Instal visual studio : https://code.visualstudio.com/download.
-- Install chrome browser : http://www.google.com/chrome
+- Install chrome browser : http://www.google.com/chrome .
 
 
 ## Running the test 
