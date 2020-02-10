@@ -21,7 +21,7 @@ Once installed:
 - right click on index.html and open with your browser to view.
 
 ## Built with
-- HTML
+- HTML.
 - CSS
 
 ## Author
