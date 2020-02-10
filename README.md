@@ -28,4 +28,4 @@ The software to install to run the code:
 - Ian M.Warui .
 
 ## License
-- The project is licensed under github.
+- The project is licensed under github project license
