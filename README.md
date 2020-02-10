@@ -12,9 +12,9 @@ The software to install to run the code:
 -Browser(chrome,mozilla)
 
 ## Installing
-Once installed:
-- open folder that host the index file through visual studio.
-- right click on index.html and open with your browser to view.
+- Instal visual studio : https://code.visualstudio.com/download.
+- Install chrome browser : http://www.google.com/chrome
+
 
 ## Running the test 
 - open folder that host the index file through visual studio.
