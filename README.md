@@ -19,3 +19,12 @@ Once installed:
 ## Running the test 
 - open folder that host the index file through visual studio.
 - right click on index.html and open with your browser to view.
+
+## Built with
+- HTML
+- CSS
+
+## Author
+- Ian M.Warui
+
+##
