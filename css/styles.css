@@ -1,0 +1,35 @@
+.box{
+    padding:40px;
+    width: 1000px;
+    border: 15px solid-blue;
+    margin: 40px;
+}
+
+.paragraphs{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+
+}
+.h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 10px;
+}
+.img{
+    float: right;
+}
+.header1{
+    padding: 20px;
+    text-align:center;
+    background: white;
+    color:black;
+    font size: 30px;
+    font-family: arial;
+}
+body{
+    margin: 0;
+    background: teal;
+
+}
