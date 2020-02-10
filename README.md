@@ -11,4 +11,9 @@ The software to install to run the code:
 -Visual studio code
 -Browser(chrome,mozilla)
 
-##
+## Installing
+Once installed:
+- open folder that host the index file through visual studio.
+- right click on index.html and open with your browser to view.
+
+#
