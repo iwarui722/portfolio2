@@ -9,7 +9,7 @@
 ## Prerequisites
 The software to install to run the code: 
 - Visual studio code.
--Browser(chrome,mozilla)
+- Browser(chrome,mozilla)
 
 ## Installing
 - Instal visual studio : https://code.visualstudio.com/download .
