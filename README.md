@@ -27,4 +27,5 @@ Once installed:
 ## Author
 - Ian M.Warui
 
-##
+## License
+- The project is licensed under github
