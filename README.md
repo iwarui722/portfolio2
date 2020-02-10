@@ -1,4 +1,4 @@
-# portfolio2
+# Portfolio-Readme
 
 ## Individual Project
 - This is a porfolio  individual project for week one.
@@ -16,4 +16,6 @@ Once installed:
 - open folder that host the index file through visual studio.
 - right click on index.html and open with your browser to view.
 
-#
+## Running the test 
+- open folder that host the index file through visual studio.
+- right click on index.html and open with your browser to view.
