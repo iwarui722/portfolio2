@@ -22,7 +22,7 @@ Once installed:
 
 ## Built with
 - HTML.
-- CSS
+- CSS.
 
 ## Author
 - Ian M.Warui
