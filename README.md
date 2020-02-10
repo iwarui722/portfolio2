@@ -28,4 +28,4 @@ Once installed:
 - Ian M.Warui
 
 ## License
-- The project is licensed under github
+- The project is licensed under github.
