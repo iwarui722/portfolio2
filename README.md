@@ -25,7 +25,7 @@ Once installed:
 - CSS.
 
 ## Author
-- Ian M.Warui
+- Ian M.Warui .
 
 ## License
 - The project is licensed under github.
